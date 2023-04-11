@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  testenv:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-11T18:24:54.839828079+02:00"
+    description: A Helm chart for Kubernetes
+    digest: a49f090ef80e232d18db57e738741dd50c9f667e4eb5f2ff75939a4bc22a9501
+    name: testenv
+    type: application
+    urls:
+    - https://davglez.github.io/helmrepo/testenv-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-11T18:24:54.839321048+02:00"
